@@ -1,4 +1,5 @@
-# Sonata
+# Wordpress
+
 
 Orchestrate your new WordPress project with Composer.
 
